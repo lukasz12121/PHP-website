@@ -1,0 +1,14 @@
+.container{
+    padding: 20px;
+}
+.panel{
+    margin:20px;
+    border-radius: 25px;
+    padding: 20px;
+    border: 2px solid #c7c0c0;
+}
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+  }
